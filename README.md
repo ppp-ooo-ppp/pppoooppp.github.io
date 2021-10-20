@@ -1,2 +1,2 @@
 # test
-![aaa](test.md)
+[aaa](test.md)
